@@ -1,4 +1,4 @@
-## CHARMM36IDPSFF force field
+## CHARMM36IDPSFF force field for GROMACS
 
 ### Introduction
 This is the description of the concept and the usage of **CHARMM36IDPSFF** force field
