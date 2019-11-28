@@ -45,5 +45,8 @@ You can use this force field in your research according to the following informa
 When you publish or report results using CHARMM36IDPSFF force field, please cite this paper  
 
 - H. Liu, D. Song, H. Lu, R. Luo and H. F. Chen. Intrinsically Disordered Protein Specific  
-  Force Field CHARMM36IDPSFF, Chemical Biology & Drug Design, 2018, 92, 1722-1735.
+  Force Field CHARMM36IDPSFF, *Chemical Biology & Drug Design*, 2018, **92**, 1722-1735.
+- H. Liu, D. Song, Y. Zhang, S. Yang, R. Luo and H. F. Chen. Extensive tests and evaluation  
+  of the CHARMM36IDPSFF force field for intrinsically disordered proteins and folded proteins,  
+  *Physical Chemistry Chemical Physics*, 2019, **21**, 21918-21931
   
