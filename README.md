@@ -42,7 +42,7 @@ You can use this force field in your research according to the following informa
     [You can choose our force field by inputting "1" and then click "Enter"]  
 
 ### Reference  
-When you publish or report results using CHARMM36IDPSFF force field, please cite this paper  
+When you publish or report results using CHARMM36IDPSFF force field, please cite the following papers  
 
 - H. Liu, D. Song, H. Lu, R. Luo and H. F. Chen. Intrinsically Disordered Protein Specific  
   Force Field CHARMM36IDPSFF, *Chemical Biology & Drug Design*, 2018, **92**, 1722-1735.
