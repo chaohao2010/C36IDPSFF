@@ -8,17 +8,13 @@ modified dihedral energy correlation map (CMAP) to simulate intrinsically disord
 You can use this force field in your research according to the following information.
 
 ### Usage
-1. Decompress the file `c36IDPSFF.tar.bz2`    
-  
-	*$ tar -jxvf c36IDPSFF.tar.bz2*
-
-2. Enter the `c36IDPSFF` directory and you will find the force field files  
+1. Enter the `c36IDPSFF` directory and you will find the force field files  
   
     *$ cd c36IDPSFF/*  
     *$ ls*  
 	**charmm36IDPSFF.ff**  **README.md**  **test**  
  
-3. Copy the force field `charmm36IDPSFF.ff` to your Gromacs force field directory  
+2. Copy the force field `charmm36IDPSFF.ff` to your Gromacs force field directory  
   
 	*$ cp -r charmm36IDPSFF.ff/ $GROMACS/share/gromacs/top*  
   
