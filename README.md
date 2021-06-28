@@ -12,7 +12,7 @@ You can use this force field in your research according to the following informa
   
     *$ cd c36IDPSFF/*  
     *$ ls*  
-	**charmm36IDPSFF.ff**  **README.md**  **test**  
+	**charmm36IDPSFF.ff**  **test**  
  
 2. Copy the force field `charmm36IDPSFF.ff` to your Gromacs force field directory  
   
